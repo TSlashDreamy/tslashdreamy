@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React.js, Unity**
 
-- 🤝 I’m looking for help with **Studying Game development (Unity)**
-
 - 👨‍💻 All of my projects are available at [https://tslashdreamy.github.io/#/](https://tslashdreamy.github.io/#/)
 
 <h3 align="left">Connect with me:</h3>
