@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taras</h1>
-<h3 align="center">A student and web developer from Ukraine (also working with unity (～￣▽￣)～)</h3>
+<h3 align="center">A student and web developer from Ukraine (also playing around with unity (～￣▽￣)～)</h3>
 
 
 - 🌱 I’m currently learning **React.js, Unity**
 
-- 🤝 I’m looking for help with **Game development (Unity)**
+- 🤝 I’m looking for help with **Studying Game development (Unity)**
 
 - 👨‍💻 All of my projects are available at [https://tslashdreamy.github.io/#/](https://tslashdreamy.github.io/#/)
 
