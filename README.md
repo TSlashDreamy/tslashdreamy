@@ -2,7 +2,7 @@
 <h3 align="center">A student and web developer from Ukraine (also playing around with unity (～￣▽￣)～)</h3>
 
 
-- 🌱 I’m currently learning **React.js, Unity**
+- 🌱 I’m currently learning **RTK, Saga, Unity**
 
 - 👨‍💻 All of my projects are available at [https://tslashdreamy.github.io/#/](https://tslashdreamy.github.io/#/)
 
