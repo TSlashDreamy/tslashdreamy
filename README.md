@@ -13,6 +13,8 @@
 > My days are spent building sleek, efficient web applications using React and TypeScript. My "off-hours" are often spent exploring game development - a hobby that fuels my creativity and challenges me to think outside the box when it comes to user interaction.
 >
 > I love the process of turning a "what if?" into a working product. If you're looking for a developer or a partner who brings both technical skill and a creative spark to the team, let's connect!
+>
+> You can look at my [ATS friendly](https://drive.google.com/file/d/1czeWafobAO3aAaDotI8Q19-k25iWdelG/view?usp=sharing) resume or [✨shiny version✨](https://drive.google.com/file/d/1D5VWpKsRIlHKcmtWhCKV805KhB74eEHp/view?usp=sharing)
 
 ----
 
@@ -20,7 +22,7 @@
 
 <div>
 
-  <p><b align="center">Languages</b></p>
+  <p><b align="center">💻 Languages</b></p>
   
   ![Static Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Static Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,30 +47,40 @@
   ![Static Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-  <p><b align="center">Database</b></p>
+  <p><b align="center">⚡️ Database</b></p>
 
   ![Static Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  <p><b align="center">Linters</b></p>
+  <p><b align="center">🔎 Linters</b></p>
   
   ![Static Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-  <p><b align="center">Terminal</b></p>
+  <p><b align="center">💻 Terminal</b></p>
 
   ![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
   ![Static Badge](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)  
   ![Static Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
-  <p><b align="center">Workflow Platforms</b></p>
+  <p><b align="center">⏱️ Workflow Platforms</b></p>
 
   ![Static Badge](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
-  <p><b align="center">Cloud</b></p>
+  <p><b align="center">☁️ Cloud</b></p>
   
   ![Static Badge](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
   
 </div>
+
+<h2 align="center">My Contribution Graph</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSlashDreamy/TSlashDreamy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TSlashDreamy/TSlashDreamy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TSlashDreamy/TSlashDreamy/output/pacman-contribution-graph.svg">
+</picture>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TSlashDreamy&hide_border=true&border_radius=5.5&short_numbers=true&card_width=1000&card_height=300&background=0%2CFFC56F%2C782055&stroke=00000089&fire=FFF4EA&ring=FFF4EA&currStreakLabel=000000CB&dates=000000D5" alt="GitHub Streak" /></a>
