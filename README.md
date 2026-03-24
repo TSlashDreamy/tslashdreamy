@@ -38,6 +38,9 @@
   ![Static Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
+  ![Static Badge](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
   ![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
@@ -50,6 +53,7 @@
   <p><b align="center">⚡️ Database</b></p>
 
   ![Static Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
   <p><b align="center">🔎 Linters</b></p>
   
@@ -58,29 +62,44 @@
 
   <p><b align="center">💻 Terminal</b></p>
 
-  ![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
-  ![Static Badge](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)  
   ![Static Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+  ![Static Badge](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)  
 
   <p><b align="center">⏱️ Workflow Platforms</b></p>
 
   ![Static Badge](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
+  <p><b align="center">🤖 Gen AI</b></p>
+
+  ![Static Badge](https://img.shields.io/badge/Codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+
   <p><b align="center">☁️ Cloud</b></p>
   
   ![Static Badge](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   
 </div>
 
 <h2 align="center">My Contribution Graph</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSlashDreamy/TSlashDreamy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TSlashDreamy/TSlashDreamy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TSlashDreamy/TSlashDreamy/output/pacman-contribution-graph.svg">
-</picture>
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TSlashDreamy&hide_border=true&border_radius=5.5&short_numbers=true&card_width=1000&card_height=300&background=0%2CFFC56F%2C782055&stroke=00000089&fire=FFF4EA&ring=FFF4EA&currStreakLabel=000000CB&dates=000000D5" alt="GitHub Streak" /></a>
+<div align="center">
+ 
+![TSlash's GitHub stats](https://github-readme-stats.vercel.app/api?username=tslashdreamy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&ring_color=FFF4EA&text_color=000000CB&icon_color=000000CB&bg_color=0,FFC56F,782055&title_color=000000CB)
+
+</div>
+<div align="center">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tslashdreamy&layout=compact&hide_border=true&bg_color=0,FFC56F,782055&title_color=000000CB&text_color=000000CB&text_bold=true)
+
+</div>
