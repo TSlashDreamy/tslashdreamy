@@ -97,8 +97,3 @@
 ![TSlash's GitHub stats](https://github-readme-stats.vercel.app/api?username=tslashdreamy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&ring_color=FFF4EA&text_color=000000CB&icon_color=000000CB&bg_color=0,FFC56F,782055&title_color=000000CB)
 
 </div>
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tslashdreamy&layout=compact&hide_border=true&bg_color=0,FFC56F,782055&title_color=000000CB&text_color=000000CB&text_bold=true)
-
-</div>
