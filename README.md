@@ -88,12 +88,3 @@
   ![Static Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   
 </div>
-
-<h2 align="center">My Contribution Graph</h2>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TSlashDreamy&hide_border=true&border_radius=5.5&short_numbers=true&card_width=1000&card_height=300&background=0%2CFFC56F%2C782055&stroke=00000089&fire=FFF4EA&ring=FFF4EA&currStreakLabel=000000CB&dates=000000D5" alt="GitHub Streak" /></a>
-<div align="center">
- 
-![TSlash's GitHub stats](https://github-readme-stats.vercel.app/api?username=tslashdreamy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&ring_color=FFF4EA&text_color=000000CB&icon_color=000000CB&bg_color=0,FFC56F,782055&title_color=000000CB)
-
-</div>
