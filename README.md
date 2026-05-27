@@ -14,7 +14,7 @@
 >
 > I love the process of turning a "what if?" into a working product. If you're looking for a developer or a partner who brings both technical skill and a creative spark to the team, let's connect!
 >
-> You can look at my [ATS friendly](https://drive.google.com/file/d/1-xivh5y5-1YtQSrn9dxnhdH2rvbF-wKk/view?usp=sharing) resume or [✨shiny version✨](https://drive.google.com/file/d/10cDXv9UJZPPilA22luAMrN3O7ZWLX_PI/view?usp=sharing)
+> You can look at my [ATS friendly](https://drive.google.com/file/d/1n45KH8pHUj3Ygpote2bhkzzWUh5mpCa6/view?usp=sharing) resume or [✨shiny version✨](https://drive.google.com/file/d/1FKahqh6itCkxWfcFo3MVmYYDfCAqq57k/view?usp=sharing)
 
 ----
 
